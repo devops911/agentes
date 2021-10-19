@@ -3,7 +3,7 @@ trigger:
 
 pool:
   # vmImage: 'ubuntu-latest'
-  name: 'azure-vmss'
+  name: 'agente'
 
 jobs:  
 - job: Job1
